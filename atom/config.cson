@@ -1,0 +1,47 @@
+"*":
+  "atom-clock":
+    showTooltip: true
+  "battery-status": {}
+  core:
+    disabledPackages: [
+      "terminal-plus"
+      "linter-eslint"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "node_modules/"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    preferredLineLength: 100
+    showInvisibles: true
+  "exception-reporting":
+    userId: "de011030-6000-f9da-82b8-ec032025119d"
+  "go-plus":
+    currentPanelHeight: "24.53271028037383vh"
+    disabledBundledPackages: [
+      "go-signature-statusbar"
+      "go-debug"
+      "hyperclick"
+    ]
+  "highlight-line":
+    hideHighlightOnSelect: true
+  "linter-ui-default": {}
+  "markdown-preview-plus":
+    useGitHubStyle: true
+  welcome:
+    showOnStartup: false
+".go.source":
+  editor:
+    showIndentGuide: true
