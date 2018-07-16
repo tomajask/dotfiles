@@ -1,0 +1,14 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": true
+}
